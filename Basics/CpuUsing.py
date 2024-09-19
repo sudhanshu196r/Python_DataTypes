@@ -4,7 +4,7 @@
     @Date: 19-09-2024
     @Last Modified by: Sudhanshu Kumar
     @Last Modified time: 19-09-2024
-    @Title : Write a Python program to execute external command
+    @Title : Write a Python program to find the number of cpu being used
 
 '''
 
