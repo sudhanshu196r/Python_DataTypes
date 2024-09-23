@@ -9,12 +9,28 @@
 '''
 
 def addElement(my_dict):
+    """
+    Description:
+        It add new key value pair to the dictionary
+    Parameters:
+        my_dict: Takes an existing dictionary as an argument
+    Returns: 
+        returns dict after adding key value pair
+    """
     key = input("Key : ")
     value = input(" Value : ")
     my_dict[key] = value
     return my_dict
 
 def createDict():
+    """
+    Description:
+        This function creates a dictionary
+    Parameters:
+    
+    Returns: 
+        returns a dictionary
+    """
     my_dict = {}
     n = int(input("Enter size of dictionary : "))
     for i in range(n):
