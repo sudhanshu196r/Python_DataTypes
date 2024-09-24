@@ -4,11 +4,19 @@
     @Date: 24-09-2024
     @Last Modified by: Sudhanshu Kumar
     @Last Modified time: 24-09-2024
-    @Title : Python program to count a value in the dictionary
+    @Title : Python program to convert list to nested dictionary
 
 '''
 
 def list_to_nested_dict_keys(lst):
+    """
+    Description:
+        This function will convert list to nested dictionary
+    Parameters:
+        lst: It takes a list as argument
+    Returns:
+        Nested list
+    """
     ans=my_dict = {}
     for item in lst:
         my_dict[item]={}
