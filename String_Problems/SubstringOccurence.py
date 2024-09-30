@@ -4,7 +4,7 @@
     @Date: 30-09-2024
     @Last Modified by: Sudhanshu Kumar
     @Last Modified time: 30-09-2024
-    @Title : Python program to print formatted string with width 50
+    @Title : Python program to find occurence of substring inside a string
 
 '''
 
